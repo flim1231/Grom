@@ -9,7 +9,7 @@ const Main = () => {
 
     const [list, setList] = useState(list_);
     const [search, setSearch] = useState('')
-    const [bol, setBol] = useState(true);
+    const [bol, setBol] = useState(false);
 
 
     const onCh = (e) => {
@@ -30,6 +30,9 @@ const Main = () => {
         },300)
         return() => clearTimeout(Deob)
     }, [search])
+
+
+
     return (
         <main>
             <div className={cl.param_block}>

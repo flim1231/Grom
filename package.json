@@ -2,6 +2,7 @@
   "name": "grom",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://flim1231.github.io/Grom/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.1.1",

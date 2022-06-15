@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 import Head_block from './Components/head_blockl/Head_block';
 
 function App() {
-  console.log(document)
+
 
   return (
     <div className="App">

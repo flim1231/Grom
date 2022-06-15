@@ -61,6 +61,18 @@ li {
 }
 
 
+.avatar {
+    color: white;
+    padding: 17px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 100px;
+    border: 2px orange solid;
+    background-color: inherit;
+    margin-right: 10px;
+}
+
+
 @media only screen and (max-width: 430px) {
     .list_header {
         max-width: 100%;
