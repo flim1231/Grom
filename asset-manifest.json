@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Grom/static/css/main.27390282.css",
+    "main.js": "/Grom/static/js/main.4fe0648f.js",
+    "index.html": "/Grom/index.html",
+    "main.27390282.css.map": "/Grom/static/css/main.27390282.css.map",
+    "main.4fe0648f.js.map": "/Grom/static/js/main.4fe0648f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27390282.css",
+    "static/js/main.4fe0648f.js"
+  ]
+}
