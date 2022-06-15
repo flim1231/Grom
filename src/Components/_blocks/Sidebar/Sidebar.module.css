@@ -55,7 +55,7 @@ a {
 }
 
 
-@media only screen and (min-width:100px) and (max-width:1365px) {
+@media only screen and (min-width:100px) and (max-width:980px) {
     .side_bar {
         width: auto;
         max-width: 100%;
